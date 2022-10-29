@@ -1,0 +1,4 @@
+Mike@LanguageLearners;C;german
+Joao@VENATVS;C;1
+Jonas@VENATVS;A;54321
+Mediador@VENATVS;A;12345

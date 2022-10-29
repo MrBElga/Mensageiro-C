@@ -1,0 +1,8 @@
+teste;Wed Jun 01 15:23:01 2022
+;Joao@VENATVS;Mediador@VENATVS;mensagem
+teste vizualizacao2;Wed Jun 01 15:26:15 2022
+;Joao@VENATVS;Mediador@VENATVS;mensagem de teste
+teste remetente;Wed Jun 01 15:24:35 2022
+;Mediador@VENATVS;Joao@VENATVS;mensagem
+teste visualizacao;Wed Jun 01 15:25:01 2022
+;Mediador@VENATVS;Jonas@VENATVS;msg teste
